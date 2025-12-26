@@ -1,5 +1,7 @@
 # ECO GUARD AI - Industrial Safety Monitoring System
 
+> **📋 For Hackathon Submission:** See [PROJECT_SUBMISSION.md](./PROJECT_SUBMISSION.md) for the complete submission document with project summary, tech stack, and evaluation criteria alignment.
+
 ## Project Summary
 
 ECO GUARD AI is a real-time Industrial IoT monitoring system designed to prevent catastrophic chemical facility incidents through early detection, predictive analytics, and human-in-the-loop safety protocols. The system addresses critical environmental challenges by preventing industrial disasters that cause massive environmental damage, soil contamination, and healthcare costs.
